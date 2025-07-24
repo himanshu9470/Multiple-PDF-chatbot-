@@ -6,8 +6,7 @@
 
 An AI-powered chatbot that lets you ask questions about your PDF and DOCX documents using natural language processing.
 
-![Screenshot](ss.png)
-![Screenshot](image.png)
+![Demo Screenshot](demo.png) <!-- Replace with your actual demo image -->
 
 ## Features ✨
 
@@ -27,27 +26,30 @@ An AI-powered chatbot that lets you ask questions about your PDF and DOCX docume
 ## Installation ⚙️
 
 1. Clone the repository:
-
+```bash
 git clone https://github.com/himanshu9470/Multiple-PDF-chatbot-.git
 cd Multiple-PDF-chatbot-
 
 2. Set up virtual environment:
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 3. Install dependencies:
-
+```bash
 pip install -r requirements.txt
-
+```
 
 4. Create `.env` file (from the template):
-
+```bash
 cp .env.example .env
-
+```
 
 5. Add your HuggingFace token to `.env`:
-
+```env
 HUGGINGFACEHUB_API_TOKEN=your_token_here
+```
 
 ## Usage 🚀
 
