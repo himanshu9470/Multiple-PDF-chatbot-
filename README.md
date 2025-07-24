@@ -6,7 +6,8 @@
 
 An AI-powered chatbot that lets you ask questions about your PDF and DOCX documents using natural language processing.
 
-![Demo Screenshot](demo.png) <!-- Replace with your actual demo image -->
+![Screenshot](ss.png)
+![Screenshot](image.png)
 
 ## Features ✨
 
