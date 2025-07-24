@@ -1,5 +1,3 @@
-
-```markdown
 # Multiple PDF Chatbot 🤖📄
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://streamlit.io/)
@@ -31,7 +29,6 @@ An AI-powered chatbot that lets you ask questions about your PDF and DOCX docume
 ```bash
 git clone https://github.com/himanshu9470/Multiple-PDF-chatbot-.git
 cd Multiple-PDF-chatbot-
-```
 
 2. Set up virtual environment:
 ```bash
